@@ -1,0 +1,24 @@
+{
+  "name": "artswk1",
+  "version": "1.0.0",
+  "description": "SMA UTME 2027 Week 1 CBT Assessment for Government and Literature",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'Static site - no build needed'",
+    "preview": "npx serve ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/successminersacademy/artswk1.git"
+  },
+  "keywords": ["education", "cbt", "assessment", "utme"],
+  "author": "Success Miners Academy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/successminersacademy/artswk1/issues"
+  },
+  "homepage": "https://github.com/successminersacademy/artswk1#readme",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
